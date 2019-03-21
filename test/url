@@ -1,0 +1,8 @@
+http://www.yushu.im/book/search?q=天龙八部
+http://www.yushu.im/book/search?q=9787108006721
+
+0.0.0.0:5000/book/search?q=天龙八部
+0.0.0.0:5000/book/search?q=9787108006721
+
+http://t.yushu.im/v2/book/isbn/9787108006721
+http://t.yushu.im/v2/book/search?q=天龙八部
